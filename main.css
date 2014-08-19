@@ -1,47 +1,43 @@
-      .navbar-brand {
-        color: #FFFFFF;
-      }
-      .navbar-default {
-        background-color: #006699;
-      }
-      .navbar .nav > li > a {
-        float: none;
-        color: #FFFFFF; /* CHANGE COLOR HERE*/
-        text-decoration: none;
-        text-shadow: 0 1px 0 #ffffff;
-      }
-
-      .navbar .nav > li > a:hover {
-        background-color: lightblue;
-        color: white;
-      }
-
-      .navbar .navbar-brand {
-        color: #00CCFF;
-      }
-
-      .container-full {
-          margin: 0 auto;
-          width: 100%;
-          min-height:100%;
-          background-image: url("http://i.imgur.com/Ss7fpSW.jpg");
-          background-position: center;
-          color:#eee;
-          overflow: hidden;
-          padding-top: 100px;
-      }
-
-      .active {
-        color: white;
-      }
-      #footer {
-        background-color: #f5f5f5;
-        margin: 0;
-      }
-      .row{
+  .navbar-brand {
+    color: #FFFFFF;
+  }
+  .navbar-default {
+    background-color: #006699;
+  }
+  .navbar .nav > li > a {
+    float: none;
+    color: #FFFFFF; /* CHANGE COLOR HERE*/
+    text-decoration: none;
+    text-shadow: 0 1px 0 #ffffff;
+  }
+  .navbar .nav > li > a:hover {
+    background-color: lightblue;
+    color: white;
+  }
+  .navbar .navbar-brand {
+    color: #00CCFF;
+  }
+  .container-full {
+    margin: 0 auto;
+    width: 100%;
+    min-height:100%;
+    background-image: url("http://i.imgur.com/Ss7fpSW.jpg");
+    background-position: center;
+    color:#eee;
+    overflow: hidden;
+    padding-top: 100px;
+  }
+  .active {
+    color: white;
+  }
+  #footer {
+    background-color: #f5f5f5;
+    margin: 0;
+  }
+  .row{
     margin-left:0px;
     margin-right:0px;
-}
+  }
 
 #wrapper {
     padding-left: 70px;
